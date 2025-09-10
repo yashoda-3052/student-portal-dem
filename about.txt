@@ -1,4 +1,6 @@
 Name:P Yashoda
 Course:Bsc-Cs
-GitHub encourages collaboration by allowing you to track changes with the benefit of version control. 
-I learned how to create a repository and commit changes .
+Marks:8.88
+Hobbies:Learning proramming languages , Reading Story books
+Interest:Cooking , Indoor games
+Goal:Get a job in Reputed IT company
